@@ -1,0 +1,8 @@
+# Set LF line endings for all text files
+* text=auto
+
+# Explicitly set LF line endings for specific file types
+*.ipynb text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+
